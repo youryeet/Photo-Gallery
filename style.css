@@ -1,0 +1,13 @@
+.link{
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+.menu{
+    background-color: aquamarine;
+}
+h2{
+    color: chartreuse;
+}
